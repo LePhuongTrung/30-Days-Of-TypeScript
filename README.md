@@ -1,4 +1,4 @@
-# 30-Days-Of-TypeScript
+# 30 Days Of TypeScript
 
 
 | # Day |                                                                  Topics                                                                   |
@@ -47,4 +47,47 @@
 </sub>
 ### Credits
 This project format was inspired by [Asabeneh's 30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript). We are grateful for the contributions and templates provided by the open-source community.
+</div>
 
+
+- [30 Days Of TypeScript](#30-days-of-typescript)
+- [📔 Day 1](#-day-1)
+	- [Introduction](#introduction)
+	- [Requirements](#requirements)
+	- [Setup](#setup)
+		- [Install Node.js](#install-nodejs)
+		- [Browser](#browser)
+			- [Installing Google Chrome](#installing-google-chrome)
+			- [Opening Google Chrome Console](#opening-google-chrome-console)
+			- [Writing Code on Browser Console](#writing-code-on-browser-console)
+				- [Console.log](#consolelog)
+				- [Console.log with Multiple Arguments](#consolelog-with-multiple-arguments)
+				- [Comments](#comments)
+				- [Syntax](#syntax)
+			- [Arithmetics](#arithmetics)
+		- [Code Editor](#code-editor)
+			- [Installing Visual Studio Code](#installing-visual-studio-code)
+			- [How to Use Visual Studio Code](#how-to-use-visual-studio-code)
+	- [Adding JavaScript to a Web Page](#adding-javascript-to-a-web-page)
+		- [Inline Script](#inline-script)
+		- [Internal Script](#internal-script)
+		- [External Script](#external-script)
+		- [Multiple External Scripts](#multiple-external-scripts)
+	- [Introduction to Data types](#introduction-to-data-types)
+		- [Numbers](#numbers)
+		- [Strings](#strings)
+		- [Booleans](#booleans)
+		- [Undefined](#undefined)
+		- [Null](#null)
+		- [Any](#any)
+		- [Void](#void)
+		- [Never](#never)
+		- [Array](#array)
+		- [Tuple](#tuple)
+		- [Enum](#enum)
+	- [Checking Data Types](#checking-data-types)
+	- [Comments Again](#comments-again)
+	- [Variables](#variables)
+		- [Let](#let)
+		- [Const](#const)
+- [💻 Day 1: Exercises](#-day-1-exercises)
