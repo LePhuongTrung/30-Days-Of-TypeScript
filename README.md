@@ -33,3 +33,18 @@
 | 28    | [Mini Project: E-commerce Website](./28_Day_Mini_project_ecommerce/28_day_mini_project_ecommerce.md)                                       |
 | 29    |    [Mini Project: Portfolio Website](./29_Day_Mini_project_portfolio/29_day_mini_project_portfolio.md)                                     |
 | 30    |                      [Final Projects](./30_Day_Final_project/30_day_final_project.md)                                                      |
+
+<div align="center">
+  <h1> 30 Days Of TypeScript: Introduction</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/lephuongtrung/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+
+
+<sub>Author:
+<a href="https://www.linkedin.com/in/lephuongtrung/" target="_blank">Le Phuong Trung</a><br>
+<small> July, 2024</small>
+</sub>
+### Credits
+This project format was inspired by [Asabeneh's 30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript). We are grateful for the contributions and templates provided by the open-source community.
+
